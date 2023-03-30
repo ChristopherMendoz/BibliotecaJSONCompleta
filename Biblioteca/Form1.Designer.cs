@@ -77,11 +77,11 @@
             this.Column3,
             this.Column4,
             this.COLUMN5});
-            this.dataGridView1.Location = new System.Drawing.Point(3, 32);
+            this.dataGridView1.Location = new System.Drawing.Point(3, 22);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(555, 167);
+            this.dataGridView1.Size = new System.Drawing.Size(555, 212);
             this.dataGridView1.TabIndex = 0;
             // 
             // Column1
@@ -249,7 +249,7 @@
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Location = new System.Drawing.Point(231, 141);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(574, 163);
+            this.panel1.Size = new System.Drawing.Size(566, 248);
             this.panel1.TabIndex = 24;
             this.panel1.Visible = false;
             // 
@@ -336,7 +336,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Teal;
-            this.ClientSize = new System.Drawing.Size(817, 304);
+            this.ClientSize = new System.Drawing.Size(817, 394);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
