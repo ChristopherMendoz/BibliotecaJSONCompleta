@@ -249,7 +249,7 @@
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Location = new System.Drawing.Point(231, 141);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(566, 241);
+            this.panel1.Size = new System.Drawing.Size(566, 248);
             this.panel1.TabIndex = 24;
             this.panel1.Visible = false;
             // 
